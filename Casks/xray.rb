@@ -3,9 +3,9 @@ cask "xray" do
   sha256 "paste_your_sha256_here"
 
   url "https://github.com/impaktfull/xray/releases/download/v#{version}/XRay-#{version}.dmg"
-  name "XRay"
+  name "xRay"
   desc "Desktop app for inspecting network calls, logs and key-value stores"
   homepage "https://github.com/impaktfull/xray"
 
-  app "XRay.app"
+  app "xRay.app"
 end
