@@ -6,7 +6,7 @@ cask "deltavision" do
   desc "Visual diff for the images in your Git repository"
   homepage "https://deltavision.app"
 
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   app "DeltaVision.app"
 end
