@@ -1,8 +1,8 @@
 cask "xray" do
-  version "0.0.15"
+  version "0.1.1"
   auto_updates true
-  url "https://github.com/impaktfull/xray/releases/download/v0.0.15/xRay-0.0.15.dmg"
-  sha256 "cdae3c412bda3f1d35328bd71f44b14e6267108a66e7e4f1b17132a88502f236"
+  url "https://github.com/impaktfull/xray/releases/download/v0.1.1/xRay-0.1.1.dmg"
+  sha256 "fac5534117204d1b66331a43164fcc204f1c01b3b42cf51b6ec0d5980378051f"
   name "xRay"
   desc "Desktop app for inspecting network calls, logs and key-value stores"
   homepage "https://github.com/impaktfull/xray"
