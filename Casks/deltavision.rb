@@ -1,7 +1,7 @@
 cask "deltavision" do
-  version "0.2.0"
-  url "https://github.com/impaktfull/delta_vision/releases/download/v0.2.0/DeltaVision-0.2.0.dmg"
-  sha256 "4023adc3f0d39e5be72d353ec3c34b99b334fa1e37f96a0873bc544ce189cdd8"
+  version "0.3.0"
+  url "https://github.com/impaktfull/delta_vision/releases/download/v0.3.0/DeltaVision-0.3.0.dmg"
+  sha256 "7c4685db6b152313017c5b30dac8f879f412492e1fb87c369ecdcea48f378fce"
   name "DeltaVision"
   desc "Visual diff for the images in your Git repository"
   homepage "https://deltavision.app"
